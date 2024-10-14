@@ -37,23 +37,6 @@ Steps:
 3. The fetched metadata, including the **abstract**, is summarized using **BART**.
 4. Results are displayed and can be exported.
 
-## Roadmap
-
-### Phase 1: Core Features
-
-- Implement **DOI-based retrieval** using CrossRef API.
-- Parse **BibTeX** and **Excel** files for author and publication data.
-- Summarize publication abstracts using **BART**.
-
-### Phase 2: Database Integration
-
-- Crawl **Google Scholar** and **DBLP** for additional data.
-- Implement advanced filtering (e.g., publication type, time period).
-
-### Phase 3: Export and UI Improvements
-
-- Add **Word** and **Excel** export features.
-- Enhance the **Streamlit** UI for better user experience.
 
 ## Tech Stack
 
@@ -62,6 +45,18 @@ Steps:
 - **CrossRef API**: For retrieving DOI metadata.
 - **Google Scholar/DBLP**: For crawling academic databases.
 - **BART (Hugging Face)**: For summarizing abstracts.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/36af65d1-20a7-4881-a017-b9cbe8ab77b2)
+![image](https://github.com/user-attachments/assets/5963cc30-96f3-4ae1-ae41-44f388348d1d)
+![image](https://github.com/user-attachments/assets/919dd32e-e332-43ae-803e-363808869dae)
+
+
+
+
+
+
+
 
 ## Conclusion
 
